@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_res_info_",
+  "info": {
+    "displayName": "餐厅信息",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "address": {
+      "type": "string"
+    },
+    "tel": {
+      "type": "integer"
+    }
+  }
+}

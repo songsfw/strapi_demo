@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_res_info_services",
+  "info": {
+    "displayName": "service",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "address": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    }
+  }
+}
